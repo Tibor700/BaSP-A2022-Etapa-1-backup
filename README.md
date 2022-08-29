@@ -4,6 +4,11 @@
 the first weekly problematic was make a screanflow of a website with all the design and the intereactions
 
 ## Week 02
-the second weekly problematic is making a html page based on a landing page of desktop version
+the second weekly problematic is making a html page based on a landing page of desktop version:
+the idea is recreate the page without design ,just with html tags to gain experience of the correct use of html and the good practices.
+
+## manual
+the only way to open the page by now is clicking in the index.html document in your folder ,staying in the page you can interact and use all the functions ,the links are incomplete by now but in the future it will be functional.
+
 ## Authors
 - Tibor Takacs
