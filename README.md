@@ -10,5 +10,8 @@ the idea is recreate the page without design ,just with html tags to gain experi
 ## manual
 the only way to open the page by now is clicking in the index.html document in your folder ,staying in the page you can interact and use all the functions ,the links are incomplete by now but in the future it will be functional.
 
+## Week 03
+the third weekly problematic is desing the html document with css to make look like exact as the landing page of desktop version of the firts week
+
 ## Authors
 - Tibor Takacs
