@@ -1,0 +1,43 @@
+
+*{
+background-color: #373867;
+color: #ffffff;
+}
+
+
+.asidebar
+{
+position: relative;
+height: 100%;
+width: 25%;
+float: left;
+}
+
+.asidebar2
+{
+background-color: #262862;
+}
+
+.header
+{
+position: relative;
+height: 100%;
+width: 75%;
+float: right;
+
+}
+.main{
+    position: relative;
+    height: 100%;
+    width: 75%;
+    float: right;
+    }
+
+.footer{
+    position: relative;
+    height: 100%;
+    width: 75%;
+    float: right;
+    }
+
+
