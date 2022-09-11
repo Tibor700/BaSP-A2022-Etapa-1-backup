@@ -433,40 +433,6 @@ margin-bottom: 50px;
 /*secion 4 main*/
 
 /*secion 5 main*/
-
-
-/* .productobox {
-display: inline-block;
-height: 150px;
-width: 124.83555603027344px;
-left: 681px;
-top: 3619px;
-border-radius: nullpx;
-
-margin-left: 250px;
-} */
-
-/* .companybox {
-display: inline-block;
-height: 150px;
-width: 124.83555603027344px;
-left: 858.7958984375px;
-top: 3619px;
-border-radius: nullpx;
-
-margin-left: 50px;
-margin-right: 50px;
-}
-
-.supportbox {
-display: inline-block;
-height: 150px;
-width: 124.83555603027344px;
-left: 1057.02001953125px;
-top: 3619px;
-border-radius: nullpx;
-} */
-
 .productbox {
 display: inline-block;
 width: fit-content;
@@ -504,7 +470,7 @@ margin-bottom: 10px;
 }
 
 
-
+/*seccion footer*/
 footer  {
 margin-right: auto;
 margin-left: auto;
@@ -521,8 +487,6 @@ margin-left: 50px;
 }
 
 #copyright {
-
 margin-bottom: 40px;
 font-size: 12px;
-
 }
